@@ -1,3 +1,9 @@
 .log-date {
   color: #777;
 }
+
+.buton:hover {
+  border-radius: 5px;
+  transform: scale(1.5);
+  background-color: rgb(235, 141, 141);
+}
